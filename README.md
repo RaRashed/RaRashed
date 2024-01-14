@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rashedul Aziz Rashed</h1>
 <h3 align="center">A passionate Laravel Developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **Inventory Management System**
+- 🔭 I’m currently working on **Multivendor Ecommerce Project with Vue.js and laravel**
 
 - 🌱 I’m currently learning **VueJs**
 
