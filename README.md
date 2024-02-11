@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rashedul Aziz Rashed</h1>
 <h3 align="center"> Software Engineer (Grade 1) at 6amTech</h3>
 
-- 🔭 I’m currently working on **Multivendor Ecommerce Project with Vue.js and laravel**
+- 🔭 I’m currently working on **Ecommerce Project with React and laravel**
 
 - 🌱 I’m currently learning **VueJs**
 
