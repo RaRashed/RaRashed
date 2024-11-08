@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Ecommerce Project with React and laravel**
 
-- 🌱 I’m currently learning **VueJs**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://rarashed.github.io/](https://rarashed.github.io/)
 
